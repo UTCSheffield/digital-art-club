@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "StretchyBot",
-    pageTitleSuffix: "",
+    pageTitle: "Digital Art Club",
+    pageTitleSuffix: "UTC Sheffield OLP",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "stretchybot.netlify.app",
+    baseUrl: "digital-art-club..netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,

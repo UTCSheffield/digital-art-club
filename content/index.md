@@ -1,27 +1,6 @@
 ---
-title: Welcome to StretchyBot
+title: Welcome to UTC Sheffield Digital Art Club
 ---
 
-This is random musing and testing of stuff
+An experimental series of sessions to make digital art for display at school using Hydra
 
-
-
-![[blackicon.jpg|300]]
-
-
-
-
-```mermaid
-pie title Pets adopted by volunteers
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
-
-```
-
-
-
-[[Linking stuff]]
-
-
-The docs are [here](https://quartz.jzhao.xyz/)  
