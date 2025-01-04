@@ -15,5 +15,6 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 - **Friendship** - using sport and to develop tolerance and understanding between all people – performers, spectators and citizens generally.​
 - **Respect** - having consideration for oneself, others and the wider environment. It includes respecting the rules of sport and the officials who uphold them.
 
-## Session
+## Sessions
+[[Session 1 - What is Hydra?]]
 
