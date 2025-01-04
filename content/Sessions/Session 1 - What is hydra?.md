@@ -42,4 +42,7 @@ For more information and instructions, see: [the interactive documentation](htt
 
 ---
 
-Store the code
+## Store your code
+
+- Copy and paste somewhere sensible
+- upload to gallery
