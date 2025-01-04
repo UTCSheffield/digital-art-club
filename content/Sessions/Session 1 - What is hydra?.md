@@ -21,8 +21,9 @@ https://sfdcanbac-ux.glitch.me/
 <iframe src="https://sfdcanbac-ux.glitch.me/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 1. Wave your mouse over the commands.
-2. Click [SELECT] when you like an effect to stick
-3. Notice the code at the bottom
+2. Click [SELECT] when you like an effect
+3. Click Skip to go to the next set of choices.
+4. Notice the code at the bottom
 
 ---
 ## Copy the code into https://hydra.ojack.xyz/
