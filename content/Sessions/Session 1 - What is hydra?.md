@@ -1,5 +1,8 @@
+## What is hydra?
+
 [Hydra](https://hydra.ojack.xyz/) is live code-able video synth and coding environment that runs directly in the browser. It is free and open-source and made for beginners and experts alike.
 
+---
 
 
 Hydra is **written in JavaScript and compiles to WebGL under the hood**. The syntax is inspired by analog modular synthesis, in which chaining or patching a set of transformations together generates a visual result. Hydra can be used: to mix and add effects to camera feeds, screenshares, live streams, and videos.
@@ -33,7 +36,10 @@ https://hydra.ojack.xyz/?sketch_id=ISD4DlyEMlsglL5V
 
 ## Play about with [hydra](https://hydra.ojack.xyz/) 
 
-[Hydra](https://hydra.ojack.xyz/) 
 <iframe src="https://hydra.ojack.xyz/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 For more information and instructions, see: [the interactive documentation](https://hydra.ojack.xyz/docs), [a list of hydra functions](https://hydra.ojack.xyz/api), [the community database of projects and tutorials](https://hydra.ojack.xyz/garden), [a gallery of user-generated sketches](https://twitter.com/hydra_patterns), and [the source code on github](https://github.com/hydra-synth/hydra),
+
+---
+
+Store the code
