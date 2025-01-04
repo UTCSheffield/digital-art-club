@@ -5,6 +5,7 @@ title: Welcome to UTC Sheffield Digital Art Club
 
 An experimental series of sessions to make digital art for display at school using [Hydra](https://hydra.ojack.xyz/)
 
+https://digital-art-club.netlify.app/
 ## Aim
 To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
 
