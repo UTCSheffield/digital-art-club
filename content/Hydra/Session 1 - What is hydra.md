@@ -1,4 +1,4 @@
-## What is hydra?
+## What is hydra
 
 [Hydra](https://hydra.ojack.xyz/) is live code-able video synth and coding environment that runs directly in the browser. It is free and open-source and made for beginners and experts alike.
 

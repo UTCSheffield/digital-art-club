@@ -17,6 +17,6 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 - **Respect** - having consideration for oneself, others and the wider environment. It includes respecting the rules of sport and the officials who uphold them.
 
 ## [Hydra](https://hydra.ojack.xyz/) based art
-- [[Session 1 - What is hydra?]]
+- [[Session 1 - What is hydra]]
 - [[Session 2 - More code more chaos]]
 - [[Session 3 - Start your project]]
