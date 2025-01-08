@@ -1,4 +1,4 @@
-## What is hydra
+## What is hydra?
 
 [Hydra](https://hydra.ojack.xyz/) is live code-able video synth and coding environment that runs directly in the browser. It is free and open-source and made for beginners and experts alike.
 
@@ -7,6 +7,7 @@ Hydra is **written in JavaScript and compiles to WebGL under the hood**.
 ---
 ## Hydra inspired by analog modular synthesis
 
+![Moog Modular Synth|400](https://www.sequencer.de/pix/moogmodule/moog_IIIc.jpg)
 ![analog modular synthesiser](https://www.thomann.de/blog/wp-content/uploads/2019/09/IMG_8400-1-768x512.jpg)
 
 In which chaining or patching a set of transformations together generates a visual result.
@@ -23,30 +24,31 @@ This is going to be easier if you can have a play without have to type the comma
 
 Open this https://utc-olp-hydra-toy.glitch.me/ or if you have a camera https://utc-olp-hydra-toy-cam.glitch.me/
 
----
-
-<iframe src="https://utc-olp-hydra-toy.glitch.me/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
 1. Wave your mouse over the commands.
 2. Click [SELECT] when you like an effect
 3. Click Skip to go to the next set of choices.
 4. Notice the code at the bottom and copy it
 
 ---
+
+<iframe src="https://utc-olp-hydra-toy.glitch.me/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+---
 ## Edit it
 
 Visit https://hydra.ojack.xyz/  get into the editor and paste the code in.
 
-It probably won't work if you were using the camera so copy the line below in at the top. 
+It probably won't work if you were using the camera so copy one of the lines below in at the top. 
 
 ```
-s0.initCam()
+s0.initCam() // If you were using the camera
+s0.initVideo("https://cdn.glitch.global/45027673-ed63-4151-9c24-b2679f7bea69/videoplayback.mp4?v=1736254251218") // For the video
 ```
 ---
 
 <iframe src="https://hydra.ojack.xyz/?sketch_id=ISD4DlyEMlsglL5V" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-
+https://hydra.ojack.xyz/?sketch_id=ISD4DlyEMlsglL5V
 ---
 ## Play about with dice
 
