@@ -5,7 +5,7 @@
 Hydra is **written in JavaScript and compiles to WebGL under the hood**. 
 
 ---
-## Hydra inspired by analog modular synthesis
+## Hydra - inspired by analog modular synthesis
 
 ![Moog Modular Synth|400](https://www.sequencer.de/pix/moogmodule/moog_IIIc.jpg)
 ![analog modular synthesiser](https://www.thomann.de/blog/wp-content/uploads/2019/09/IMG_8400-1-768x512.jpg)
