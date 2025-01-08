@@ -23,6 +23,8 @@ This is going to be easier if you can have a play without have to type the comma
 
 Open this https://utc-olp-hydra-toy.glitch.me/ or if you have a camera https://utc-olp-hydra-toy-cam.glitch.me/
 
+---
+
 <iframe src="https://utc-olp-hydra-toy.glitch.me/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 1. Wave your mouse over the commands.
@@ -38,10 +40,15 @@ Visit https://hydra.ojack.xyz/  get into the editor and paste the code in.
 It probably won't work if you were using the camera so copy the line below in at the top. 
 
 ```
-s0.camInit()
+s0.initCam()
 ```
+---
 
 <iframe src="https://hydra.ojack.xyz/?sketch_id=ISD4DlyEMlsglL5V" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+
+---
+## Play about with dice
 
 Click the Dice to make it tweak the numbers at random. It also arranges the code so you can ```//``` comment out lines. Press Shift+Ctrl+Enter to rerun the edited code.
 
