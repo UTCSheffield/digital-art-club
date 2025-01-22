@@ -3,6 +3,7 @@
 ---
 ## Our Aim
 To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
+Either our Educational Specialisms or the Olympic Values
 
 ---
 
