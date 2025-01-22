@@ -64,8 +64,8 @@ For more information and instructions, see: [the interactive documentation](htt
 ---
 ## Store your code
 
-- Copy and paste somewhere sensible
-- upload to gallery
+- Upload to gallery with the ![[Pasted image 20250122141057.png]]  button & if you have a Github account please post the link in the comments below. 
+- Or paste the code in to the comment but it will be harder to work with
 
 ---
 ## Next Time

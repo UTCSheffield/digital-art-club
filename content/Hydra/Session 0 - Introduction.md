@@ -1,3 +1,7 @@
+---
+comments: "false"
+---
+
 ![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
 
 An experimental series of sessions to make digital art for display at school using web technologies.

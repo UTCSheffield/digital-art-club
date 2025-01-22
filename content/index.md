@@ -1,5 +1,6 @@
 ---
 title: Welcome to UTC Sheffield Digital Art Club
+comments: "false"
 ---
 ![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
 
