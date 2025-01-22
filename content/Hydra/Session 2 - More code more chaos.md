@@ -8,8 +8,25 @@
 
 https://hydra.ojack.xyz/?sketch_id=kyPgjuUzwory6Ff5
 
-hydra is just javascript so we have arrays and functions to play with. This code is changing the image that is being shown every 5 seconds or so.
+hydra is just javascript so we have arrays and functions to play with. This code is changing the image that is being shown every 10 seconds or so.
 
+
+---
+## Everything on Hydras gallery is creative commons
+
+<iframe src="https://hydra.ojack.xyz/?sketch_id=SXiugyBHj200s3XG" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+So when you save something there you are saying other people are free to use your ideas / code as long as they credit you. Which is what I did her combining someone else's code with mine.
+
+https://hydra.ojack.xyz/?sketch_id=SXiugyBHj200s3XG
+
+---
+
+## Blending Images
+
+<iframe src="https://hydra.ojack.xyz/?sketch_id=7psF6jaYOUrEsTl8" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+https://hydra.ojack.xyz/?sketch_id=7psF6jaYOUrEsTl8
 ---
 
 ## Add sound reactive code
@@ -19,7 +36,7 @@ This will not be involved in our art for the screens but it is often used in Alg
 https://hydra.ojack.xyz/?sketch_id=hBiGDXGi9gSJ2Hb9
 
 ---
-## TODO : Feedback and other nonsense
+## Feedback and other nonsense
 
 <iframe src="https://hydra.ojack.xyz/?sketch_id=tX9vrHLGgtLsICc3" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
