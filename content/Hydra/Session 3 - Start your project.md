@@ -35,9 +35,10 @@ mindmap
 			Respect
 ```
 
+
 Sketch down your ideas, on paper or electronically.
 
---- 
+---
 ## Gather what you will need
 
 You will probably need some pictures / videos or text on your theme. Find those on line from sources where you have permission to use things. Like the "Creative Commons Licenses" filter in the Google Images Tools. 
