@@ -43,6 +43,6 @@ Sketch down your ideas, on paper or electronically.
 
 You will probably need some pictures / videos or text on your theme. Find those on line from sources where you have permission to use things. Like the "Creative Commons Licenses" filter in the Google Images Tools. 
 
-![[Pasted image 20250122111755.png]]
+![[Pasted image 20250122111755.png|700]]
 
 
