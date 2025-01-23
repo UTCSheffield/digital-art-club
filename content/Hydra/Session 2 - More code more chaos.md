@@ -15,7 +15,7 @@ hydra is just javascript so we have arrays and functions to play with. This code
 
 - Upload to gallery with the ![[Pasted image 20250122141057.png]]  button & if you have a Github account please post the link in the comments below. 
 - Or paste the code in to the comment but it will be harder to work with
--
+
 ---
 ## Everything on Hydras gallery is creative commons
 
