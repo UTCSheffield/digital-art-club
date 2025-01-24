@@ -4,16 +4,16 @@
 
 ---
 
-## Hydra is Javascript 
+## Hydra is JavaScript 
 
 https://hydra.ojack.xyz/?sketch_id=kyPgjuUzwory6Ff5
 
-hydra is just javascript so we have arrays and functions to play with. This code is changing the image that is being shown every 10 seconds or so.
+hydra is just JavaScript code so we have arrays and functions to play with. This code is changing the image that is being shown every 10 seconds or so.
 
 ---
 ## If you have something good - store your code
 
-- Upload to gallery with the ![[Pasted image 20250122141057.png]]  button & if you have a Github account please post the link in the comments below. 
+- Upload to gallery with the ![[Pasted image 20250122141057.png]]  button & if you have a GitHub account please post the link in the comments below. 
 - Or paste the code in to the comment but it will be harder to work with
 
 ---
