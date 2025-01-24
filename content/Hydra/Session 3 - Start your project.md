@@ -1,4 +1,4 @@
-b## Start your project
+## Start your project
 
 ## Our Aim
 To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
