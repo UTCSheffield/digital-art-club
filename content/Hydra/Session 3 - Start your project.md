@@ -43,4 +43,8 @@ You will probably need some pictures / videos or text on your theme. Find those 
 
 ![[Pasted image 20250122111755.png|700]]
 
+---
 
+# Next Time
+
+[[Session 4 - Do your project]]
