@@ -9,7 +9,7 @@
 
 In Hydra, Click ![[Pasted image 20250205143829.png]]
 
-![[Pasted image 20250205143946.png]]
+![[Pasted image 20250205143946.png|500]]
 
 Do any of these look like fun?
 
@@ -42,7 +42,7 @@ We were going to make 2D art line art and build hackclub plotters but that isn't
 
 https://forms.office.com/e/jaRixRhQkZ
 
-![[Pasted image 20250205151017.png]] 
+![[Pasted image 20250205151017.png|500]] 
 
 ---
 
