@@ -90,6 +90,6 @@ shape.save_as_scad()
 - [OpenSCAD - Documentation](https://openscad.org/documentation.html#tutorial)
 - [SolidPython Wiki](https://github.com/jeff-dh/SolidPython/wiki)
 
-
+---
 # Next Week
 [[Session 3 - Make shapes]]
