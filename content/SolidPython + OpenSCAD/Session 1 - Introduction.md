@@ -1,9 +1,6 @@
 ---
 comments: "false"
 ---
-
-![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
-
 # Digital Art Club - 3D Printed Art
 
 https://digital-art-club.netlify.app/
@@ -148,3 +145,10 @@ car().save_as_scad()
 
 
 ![[Pasted image 20250227112234.png]]
+
+
+
+---
+
+# Next Week
+[[Session 2 - Write Code]]

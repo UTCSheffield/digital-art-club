@@ -1,6 +1,4 @@
-
-![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
-
+## Session 4 - Print Art
 ## [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)
 
 Write Python - Make shapes - Print things

@@ -4,7 +4,7 @@ comments: "false"
 ---
 ![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
 
-An experimental series of sessions to make digital art for display at school using web technologies.
+An experimental series of sessions to make digital art for display at school using programming.
 
 https://digital-art-club.netlify.app/
 ## Aim
@@ -25,3 +25,10 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 - [[Session 1 - What is hydra]]
 - [[Session 2 - More code more chaos]]
 - [[Session 3 - Start your project]]
+- [[Session 4 - Do your project]]
+- [[Session 5 - Finishing up]]
+
+## [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+
+- [[Session 1 - Introduction]]
+- [[Session 2 - Write Code]]
