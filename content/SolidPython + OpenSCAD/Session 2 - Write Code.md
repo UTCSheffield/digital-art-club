@@ -69,7 +69,7 @@ assembly.save_as_scad()
 
 ## Text and Input
 
-- This really is python you can do everything including input and validation
+This really is python, you can do everything including input and validation.
 ```python
 from solid2 import *
 valid = False
