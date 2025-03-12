@@ -3,10 +3,10 @@
 ---
 ![[Pasted image 20250226150345.png]]
 
+---
 
 ```python
 from solid2.extensions.bosl2 import heightfield
-import re
 
 def get_data():
   from math import sqrt,sin
@@ -22,6 +22,7 @@ assembly = heightfield(size=[100,100], bottom=-1, data=get_data())
 
 assembly.save_as_scad() #this fails in NixOS, delete this and uncomment below
 '''
+import re
 from solid2 import scad_render
 rendered_string = re.sub(r'<.*BOSL2', '<BOSL2', scad_render(assembly))
 with open("heightmap.scad","w") as file:
