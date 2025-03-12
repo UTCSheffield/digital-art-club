@@ -1,6 +1,8 @@
 ## Session 3 - Make shapes
 
 ---
+![[Pasted image 20250226150345.png]]
+
 
 ```python
 from solid2.extensions.bosl2 import heightfield
@@ -41,7 +43,7 @@ assembly = circle(r=10, _fn=6).path_extrude(path)
 assembly.save_as_scad()
 ```
 
-![[Pasted image 20250226150506.png]]
+![[Pasted image 20250226150506.png|300]]
 
 ---
 
