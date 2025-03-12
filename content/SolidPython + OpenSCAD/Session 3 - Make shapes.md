@@ -29,6 +29,23 @@ with open("heightmap.scad","w") as file:
 
 ---
 
+## Code Ideas - Shape along a path
+
+
+```python
+#! /usr/bin/env python
+from solid2.extensions.bosl2 import circle
+path = [ [0, 0, 0], [33, 33, 33], [66, 33, 40], [100, 0, 0], [150,0,0] ]
+
+assembly = circle(r=10, _fn=6).path_extrude(path)
+assembly.save_as_scad()
+```
+
+![[Pasted image 20250226150506.png]]
+
+---
+
+## What do you want to make?
 
 
 ---
