@@ -1,17 +1,31 @@
 ---
-title: Welcome to UTC Sheffield Digital Art Club
+title: Welcome to UTC Sheffield Olympic Legacy Park MakerClub
 comments: "false"
 ---
 ![UTC OLP Logo](https://www.utcsheffield.org.uk/olp/assets/sites/3/2021/07/UTC-Sheffield-Olympic-Legacy-Park-Horizontal.svg)
 
-An experimental series of sessions to make digital art for display at school using programming.
+An experimental series of sessions to make digital art, music and games for display at school using programming.
 
 https://digital-art-club.netlify.app/
-## Aim
-To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
 
-## The Aim
-To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
+## [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
+
+## [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
+
+## [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+
+- [[Session 1 - Introduction]]
+- [[Session 2 - Write Code]]
+
+## [Hydra](https://hydra.ojack.xyz/) based art
+- [[Session 1 - What is hydra]]
+- [[Session 2 - More code more chaos]]
+- [[Session 3 - Start your project]]
+- [[Session 4 - Do your project]]
+- [[Session 5 - Finishing up]]
+
+### The Aim
+To create web based art on the themes of [UTC Sheffield Olympic Legacy Park](https://www.utcsheffield.org.uk/olp/)   
 - **Specialisms**
 	- **Computing**
 	- **Health Sciences & Social Care**
@@ -21,14 +35,4 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 	- **Friendship** - using sport and to develop tolerance and understanding between all people – performers, spectators and citizens generally.​
 	- **Respect** - having consideration for oneself, others and the wider environment. It includes respecting the rules of sport and the officials who uphold them.
 
-## [Hydra](https://hydra.ojack.xyz/) based art
-- [[Session 1 - What is hydra]]
-- [[Session 2 - More code more chaos]]
-- [[Session 3 - Start your project]]
-- [[Session 4 - Do your project]]
-- [[Session 5 - Finishing up]]
 
-## [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
-
-- [[Session 1 - Introduction]]
-- [[Session 2 - Write Code]]
